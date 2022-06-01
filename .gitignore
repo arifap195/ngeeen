@@ -1,0 +1,9 @@
+.idea
+*.iml
+*.sw*
+gen/
+.vscode/
+*.code-workspace
+*.project
+*.settings/
+*.gradle/
